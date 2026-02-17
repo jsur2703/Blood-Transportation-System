@@ -5,7 +5,7 @@ function Home() {
       {/* Title Section */}
       <div className="max-w-4xl mx-auto text-center mb-12">
         <h1 className="text-4xl font-bold text-indigo-700 mb-3">
-          🩸 Blood Transport Monitoring System
+          Blood Transport Monitoring System
         </h1>
         <p className="text-lg text-gray-600">
           Real-time cold-chain monitoring for safe and reliable blood transportation
@@ -17,7 +17,7 @@ function Home() {
         
         <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition-all duration-300">
           <h3 className="text-xl font-semibold text-indigo-700 mb-3">
-            🌡 Temperature Monitoring
+            Temperature Monitoring
           </h3>
           <p className="text-gray-600">
             Continuously tracks inside & outside temperature to ensure blood
@@ -27,7 +27,7 @@ function Home() {
 
         <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition-all duration-300">
           <h3 className="text-xl font-semibold text-indigo-700 mb-3">
-            💧 Humidity Tracking
+            Humidity Tracking
           </h3>
           <p className="text-gray-600">
             Monitors humidity levels inside and outside the container to
@@ -37,7 +37,7 @@ function Home() {
 
         <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition-all duration-300">
           <h3 className="text-xl font-semibold text-indigo-700 mb-3">
-            📍 Live Location
+            Live Location
           </h3>
           <p className="text-gray-600">
             GPS-based latitude & longitude tracking helps monitor the transport
@@ -47,7 +47,7 @@ function Home() {
 
         <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl transition-all duration-300">
           <h3 className="text-xl font-semibold text-indigo-700 mb-3">
-            🚨 Alerts & Notifications
+            Alerts & Notifications
           </h3>
           <p className="text-gray-600">
             Automatic email alerts are sent whenever temperature goes outside
@@ -60,7 +60,7 @@ function Home() {
       {/* How it works */}
       <div className="max-w-4xl mx-auto mb-14">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-          ⚙️ How the System Works
+          How the System Works
         </h2>
         <ul className="space-y-3 text-gray-700 text-base">
           <li>📡 Sensors collect temperature, humidity & GPS data</li>
@@ -74,7 +74,7 @@ function Home() {
       {/* Footer Note */}
       <div className="max-w-4xl mx-auto bg-white p-6 rounded-xl shadow-sm border">
         <p className="text-gray-700 text-base">
-          ✅ This system helps ensure{" "}
+          This system helps ensure{" "}
           <b>blood safety</b>, <b>regulatory compliance</b>, and{" "}
           <b>real-time monitoring</b> during transportation.
         </p>
